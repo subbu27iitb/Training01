@@ -10,3 +10,5 @@ Python for you and me: https://pymbook.readthedocs.io/en/latest/
 Python Practice Book: https://anandology.com/python-practice-book/index.html
 Learn Python Programming (programmiz.com): https://www.programiz.com/python-programming
 Learn Python Programming (data-flair): https://data-flair.training/blogs/python-tutorial/
+
+NumPy Tutirial Link: https://numpy.org/doc/stable/user/quickstart.html
