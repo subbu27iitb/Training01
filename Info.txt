@@ -12,3 +12,4 @@ Learn Python Programming (programmiz.com): https://www.programiz.com/python-prog
 Learn Python Programming (data-flair): https://data-flair.training/blogs/python-tutorial/
 
 NumPy Tutirial Link: https://numpy.org/doc/stable/user/quickstart.html
+Pandas Tutorial Link: https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html
