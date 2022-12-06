@@ -13,3 +13,8 @@ Learn Python Programming (data-flair): https://data-flair.training/blogs/python-
 
 NumPy Tutorial Link: https://numpy.org/doc/stable/user/quickstart.html
 Pandas Tutorial Link: https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html
+
+MatplotLib Full Tutorial Link: https://matplotlib.org/stable/gallery/index.html
+Seaborn Full Tutorial Link: https://seaborn.pydata.org/examples/grouped_violinplots.html
+Python Official Site Link: https://docs.python.org/
+
